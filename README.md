@@ -4,7 +4,7 @@
    https://coursera.org/share/ee0876162cd5f9bb6db6da5ba39c04ab
    
 # 2. Data Analysis Using Python
-    https://www.credly.com/badges/ab4415ae-b694-48b2-aa35-1d8ab508718c?source=linked_in_profile
+ https://www.credly.com/badges/ab4415ae-b694-48b2-aa35-1d8ab508718c?source=linked_in_profile
     
 #  3. Data Visualization using Python
     https://olympus1.greatlearning.in/course_certificate/HQRTJRZS
